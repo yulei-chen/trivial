@@ -7,7 +7,7 @@ version="1.0" encoding="UTF-8"?>
         <link>https://pidadianshi.netlify.app</link>
         <generator>None</generator>
         <!-- Modify this every time uploading a new episode -->
-        <lastBuildDate>Thu, 11 Dec 2025 22:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 23:34:58 GMT</lastBuildDate>
         <atom:link href="https://pidadianshi.netlify.app/index.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[ 露西和鱼雷 ]]></author>
         <copyright><![CDATA[ Yulei Chen ]]></copyright>
@@ -27,9 +27,9 @@ version="1.0" encoding="UTF-8"?>
         <itunes:image href="https://pidadianshi.netlify.app/cover.png"/>
         <item>
             <title><![CDATA[ 我们竟然异国半年了？！ ]]></title>
-            <description><![CDATA[ 因为一些收音的问题不得不剪辑，所以有时候有点逻辑不同，请见谅！ ]]></description>
-            <link>https://pidadianshi.netlify.app/episodes/1</link>
-            <guid isPermaLink="false">trivial:episode:1</guid>
+            <description><![CDATA[ 因为收音出了点问题，所以剪辑了很多地方，若有逻辑不通的地方请见谅！ ]]></description>
+            <link>https://pidadianshi.netlify.app/episodes/2</link>
+            <guid isPermaLink="false">pidadianshi:episode:2</guid>
             <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
             <pubDate>Tue, 09 Sep 2025 22:58:06 GMT</pubDate>
             <enclosure url="https://pidadianshi.netlify.app/assets/audio/2.mp3" length="37289219" type="audio/mpeg"/>
@@ -43,8 +43,8 @@ version="1.0" encoding="UTF-8"?>
         <item>
             <title><![CDATA[ 这些年租过的房 ]]></title>
             <description><![CDATA[ 我们的第一期！但有很多收音问题.... ]]></description>
-            <link>https://yuleichen.substack.com/p/01</link>
-            <guid isPermaLink="false">substack:post:171824669</guid>
+            <link>https://pidadianshi.netlify.app/episodes/1</link>
+            <guid isPermaLink="false">pidadianshi:episode:1</guid>
             <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
             <pubDate>Sun, 24 Aug 2025 18:00:28 GMT</pubDate>
             <enclosure url="https://pidadianshi.netlify.app/assets/audio/1.mp3" length="34974993" type="audio/mpeg"/>
