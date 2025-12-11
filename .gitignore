@@ -7,3 +7,6 @@ dist
 .env
 .idea/
 public/assets/fonts
+
+# Local Netlify folder
+.netlify

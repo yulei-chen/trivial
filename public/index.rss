@@ -1,0 +1,59 @@
+<?xml
+version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[屁大点事]]></title>
+        <description><![CDATA[小猫屁屁🐱的家庭茶话会🍵]]></description>
+        <link>https://trivial.yuleichen.dev</link>
+        <generator>None</generator>
+        <!-- Modify this every time uploading a new episode -->
+        <lastBuildDate>Thu, 11 Dec 2025 21:34:58 GMT</lastBuildDate>
+        <atom:link href="https://trivial.yuleichen.dev/index.rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[露西和鱼雷]]></author>
+        <copyright><![CDATA[Yulei Chen]]></copyright>
+        <language><![CDATA[zh]]></language>
+        <webMaster><![CDATA[chenyuleiw@gmail.com]]></webMaster>
+        <itunes:new-feed-url>https://trivial.yuleichen.dev/index.rss</itunes:new-feed-url>
+        <itunes:author>露西和鱼雷</itunes:author>
+        <itunes:subtitle>小猫屁屁🐱的家庭茶话会🍵</itunes:subtitle>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>露西和鱼雷</itunes:name>
+            <itunes:email>chenyuleiw@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Leisure"/>
+        <itunes:category text="Music"/>
+        <itunes:image href="https://trivial.yuleichen.dev/cover.png"/>
+        <item>
+            <title><![CDATA[我们竟然异国半年了？！]]></title>
+            <description><![CDATA[因为一些收音的问题不得不剪辑，所以有时候有点逻辑不同，请见谅！]]></description>
+            <link>https://trivial.yuleichen.dev/episodes/1</link>
+            <guid isPermaLink="false">trivial:episode:1</guid>
+            <dc:creator><![CDATA[露西和鱼雷]]></dc:creator>
+            <pubDate>Tue, 09 Sep 2025 22:58:06 GMT</pubDate>
+            <enclosure url="https://trivial.yuleichen.dev/assets/audio/2.mp3" length="37289219" type="audio/mpeg"/>
+            <itunes:author>露西和鱼雷</itunes:author>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>2331</itunes:duration>
+            <itunes:image href="https://trivial.yuleichen.dev/cover.png"/>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[这些年租过的房]]></title>
+            <description><![CDATA[我们的第一期！但有很多收音问题....]]></description>
+            <link>https://yuleichen.substack.com/p/01</link>
+            <guid isPermaLink="false">substack:post:171824669</guid>
+            <dc:creator><![CDATA[露西和鱼雷]]></dc:creator>
+            <pubDate>Sun, 24 Aug 2025 18:00:28 GMT</pubDate>
+            <enclosure url="https://trivial.yuleichen.dev/assets/audio/1.mp3" length="34974993" type="audio/mpeg"/>
+            <itunes:author>露西和鱼雷</itunes:author>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>2186</itunes:duration>
+            <itunes:image href="https://trivial.yuleichen.dev/cover.png"/>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
