@@ -30,7 +30,7 @@ function playButtonSound() {
   const audioCtx = new AudioContext()
   const oscillator = audioCtx.createOscillator()
   const gainNode = audioCtx.createGain()
-  gainNode.gain.value = 0.1
+  gainNode.gain.value = 0.05
   oscillator.connect(gainNode)
   gainNode.connect(audioCtx.destination)
   oscillator.type = 'square'

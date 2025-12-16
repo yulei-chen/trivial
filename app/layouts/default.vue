@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <main class="text-lg font-mono p-15">
+  <main class="text-lg font-mono py-15">
     <div class="mx-auto w-[300px]">
       <div class="flex gap-2 items-center">
         <NuxtLink to="/" class="text-green">
