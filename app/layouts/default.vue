@@ -3,11 +3,16 @@
 </script>
 
 <template>
-  <main class="grid grid-cols-3">
-    <div class="col-span-2">
+  <main class="text-lg font-mono p-15">
+    <div class="mx-auto w-[300px]">
+      <div class="flex gap-2 items-center">
+        <NuxtLink to="/" class="text-green">
+          屁大点事
+        </NuxtLink>
+        <DarkToggle />
+      </div>
+
       <slot />
-    </div>
-    <div class="col-span-1">
       <Episodes />
     </div>
   </main>

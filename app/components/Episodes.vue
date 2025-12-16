@@ -3,10 +3,13 @@ const { episodes } = useEpisodes()
 </script>
 
 <template>
-  <div v-for="episode in episodes" :key="episode.title">
-    <span>EP{{ episode.episode.toString().padStart(2, '0') }}: </span><NuxtLink :to="episode.link">
-      {{ episode.title }}
-    </NuxtLink>
+  <div class="py-10">
+    <div v-for="episode in episodes" :key="episode.title">
+      <NuxtLink :to="episode.link" class="text-green">
+        <span>EP{{ episode.episode.toString().padStart(2, '0') }}: </span>
+        <span>{{ episode.title }}</span>
+      </NuxtLink>
+    </div>
   </div>
 </template>
 
