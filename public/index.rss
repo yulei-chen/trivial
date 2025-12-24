@@ -7,7 +7,7 @@ version="1.0" encoding="UTF-8"?>
         <link>https://pidadianshi.netlify.app</link>
         <generator>None</generator>
         <!-- Modify this every time uploading a new episode -->
-        <lastBuildDate>Thu, 11 Dec 2025 23:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 19:24:54 GMT</lastBuildDate>
         <atom:link href="https://pidadianshi.netlify.app/index.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[ 露西和鱼雷 ]]></author>
         <copyright><![CDATA[ Yulei Chen ]]></copyright>
@@ -26,13 +26,28 @@ version="1.0" encoding="UTF-8"?>
         <itunes:category text="Music"/>
         <itunes:image href="https://pidadianshi.netlify.app/cover.png"/>
         <item>
+            <title><![CDATA[ 关于 2025 的 20 个问题 ]]></title>
+            <description><![CDATA[ 很开心这一集请到了我们的朋友 Lulu 和月月！来听听我们对于 2025 年的总结和展望吧。 ]]></description>
+            <link>https://pidadianshi.netlify.app/episodes/3</link>
+            <guid isPermaLink="false">pidadianshi:episode:3</guid>
+            <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 19:24:54 GMT</pubDate>
+            <enclosure url="https://pidadianshi.netlify.app/assets/audio/3.mp3" length="257946195" type="audio/mpeg"/>
+            <itunes:author>露西和鱼雷</itunes:author>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>7974</itunes:duration>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+
+        <item>
             <title><![CDATA[ 我们竟然异国半年了？！ ]]></title>
             <description><![CDATA[ 因为收音出了点问题，所以剪辑了很多地方，若有逻辑不通的地方请见谅！ ]]></description>
             <link>https://pidadianshi.netlify.app/episodes/2</link>
             <guid isPermaLink="false">pidadianshi:episode:2</guid>
             <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
             <pubDate>Tue, 09 Sep 2025 22:58:06 GMT</pubDate>
-            <enclosure url="https://pidadianshi.netlify.app/assets/audio/2.mp3" length="37289219" type="audio/mpeg"/>
+            <enclosure url="https://pidadianshi.netlify.app/assets/audio/2.mp3" length="75403632" type="audio/mpeg"/>
             <itunes:author>露西和鱼雷</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>2331</itunes:duration>
@@ -46,7 +61,7 @@ version="1.0" encoding="UTF-8"?>
             <guid isPermaLink="false">pidadianshi:episode:1</guid>
             <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
             <pubDate>Sun, 24 Aug 2025 18:00:28 GMT</pubDate>
-            <enclosure url="https://pidadianshi.netlify.app/assets/audio/1.mp3" length="34974993" type="audio/mpeg"/>
+            <enclosure url="https://pidadianshi.netlify.app/assets/audio/1.mp3" length="71071792" type="audio/mpeg"/>
             <itunes:author>露西和鱼雷</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>2186</itunes:duration>
