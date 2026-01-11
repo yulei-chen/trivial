@@ -7,7 +7,7 @@ version="1.0" encoding="UTF-8"?>
         <link>https://pidadianshi.netlify.app</link>
         <generator>None</generator>
         <!-- Modify this every time uploading a new episode -->
-        <lastBuildDate>Wed, 24 Dec 2025 19:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 18:00:00 GMT</lastBuildDate>
         <atom:link href="https://pidadianshi.netlify.app/index.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[ 露西和鱼雷 ]]></author>
         <copyright><![CDATA[ Yulei Chen ]]></copyright>
@@ -25,6 +25,21 @@ version="1.0" encoding="UTF-8"?>
         <itunes:category text="Leisure"/>
         <itunes:category text="Music"/>
         <itunes:image href="https://pidadianshi.netlify.app/cover.png"/>
+        <item>
+            <title><![CDATA[ 辣评同学的婚纱照 ]]></title>
+            <description><![CDATA[ 以及鱼雷在工作中的竞争心态。 ]]></description>
+            <link>https://pidadianshi.netlify.app/episodes/4</link>
+            <guid isPermaLink="false">pidadianshi:episode:4</guid>
+            <dc:creator><![CDATA[ 露西和鱼雷 ]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2026 18:00:00 GMT</pubDate>
+            <enclosure url="https://pidadianshi.netlify.app/assets/audio/4.mp3" length="89748249" type="audio/mpeg"/>
+            <itunes:author>露西和鱼雷</itunes:author>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>2770</itunes:duration>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+
         <item>
             <title><![CDATA[ 关于 2025 的 20 个问题 ]]></title>
             <description><![CDATA[ 很开心这一集请到了我们的朋友 Lulu 和月月！来听听我们对于 2025 年的总结和展望吧。 ]]></description>
@@ -54,6 +69,7 @@ version="1.0" encoding="UTF-8"?>
             <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+
         <item>
             <title><![CDATA[ 这些年租过的房 ]]></title>
             <description><![CDATA[ 我们的第一期！但有很多收音问题.... ]]></description>
